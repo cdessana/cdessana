@@ -1,12 +1,12 @@
 <h2> Hi, I'm Carmina Nascimento! <img src="https://c.tenor.com/yV_KU4XsP6gAAAAC/bear-love-cute-bear.gif" width="80"></h2>
 
 ### 🌌 Long story short
-- 🎓 I have a Master's Degree on Electrical Engineering
-- 💻 I'm currently working at SIDIA
-- ⚙️ I use daily `C#` and `TypeScript`
+- 🎓 I have a Master's Degree on Electrical Engineering;
+- 💻 I'm currently working at SIDIA;
+- ⚙️ I use daily `C#` and `TypeScript`;
 - 🌱 I’m currently learning ReactJS;
-- 🛠 I enjoy building web APIs
-- 😄 Pronouns: she/her/ela/dela
+- 🛠 I enjoy building web APIs;
+- 😄 Pronouns: she/her/ela/dela;
 - 💜 Loves: books and chocolate. 
 ### ⚡ Technologies
 These are some of the technologies and tools that I am familiar with:
