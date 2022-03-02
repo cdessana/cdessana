@@ -1,4 +1,4 @@
-<h2> Hi, I'm Carmina Nascimento! <img src="https://c.tenor.com/yV_KU4XsP6gAAAAC/bear-love-cute-bear.gif" width="80"></h2>
+<h2> Hi, I'm Carmina Nascimento!</h2>
 
 ### 🌌 Long story short
 - 🎓 I have a Master's Degree on Electrical Engineering.
