@@ -38,6 +38,20 @@ More recently, I've also been exploring **applied AI and LLM-powered application
 ## 🏅 Certifications
 
 <!-- CREDLY-BADGES:START -->
+🏅 **Industry Certifications**
+
+<div align="center">
+
+
+</div>
+
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/0ea3e0d3-8285-4d00-8a4c-ae2da77d7792" title="Software Engineering Essentials"><img src="https://images.credly.com/size/100x100/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="100" height="100"></a>
+
+</div>
 <!-- CREDLY-BADGES:END -->
 
 ---
