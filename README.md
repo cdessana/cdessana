@@ -35,6 +35,12 @@ I'm especially interested in understanding how systems behave beyond the happy p
 More recently, I've also been exploring **applied AI and LLM-powered applications**, including context management, embeddings, semantic retrieval, and RAG.
 
 ---
+## 🏅 Certifications
+
+<!-- CREDLY-BADGES:START -->
+<!-- CREDLY-BADGES:END -->
+
+---
 
 ## ☕ Beyond code
 
